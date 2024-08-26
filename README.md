@@ -4,5 +4,6 @@
 🍕🍟🍔🍻🥂🍓🍒🍉🍧🍦🍤🍰🥘🍩🍪🥤🥝🍅
 
 
-### 배우고 있는 것
+### Skill
 python git
+HTML CSS
