@@ -7,3 +7,4 @@
 ### Skill
 python git
 HTML CSS
+Django
