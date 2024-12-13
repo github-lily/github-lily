@@ -7,4 +7,7 @@
 ### Skill
 python git
 HTML CSS
+JavaScript
 Django
+Vue
+React
