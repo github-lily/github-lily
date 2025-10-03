@@ -5,8 +5,9 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Building code, breaking limits ⚡ </h2>  
     
 <h5 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Frontend Developer | TypeScript & Android & Figma </h5>  
-<div style="text-align: left;"> <a href=https://birdsfoot.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://birdsfoot.tistory.com/"> </a>
+ <a href=https://birdsfoot.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://birdsfoot.tistory.com/"> </a>
 <a href=mailto:jhc03032@naver.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhc03032@naver.com"> </a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=githun-lily&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr style="height:4px; background-color:#AAAAAA; border:none;" />
 </div>
@@ -29,6 +30,7 @@
 <hr style="height:4px; background-color:#AAAAAA; border:none;" />
 </div>
 
+<br/>
     
 <div align= "left">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -56,7 +58,7 @@
 
 
 
-<h4>📍Sub</h4>
+<h3>📍Sub</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -72,45 +74,13 @@
 
 </div>
 
-<br> 
+<!-- <br> 
 <div align= "left">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
 <img src="https://github-readme-stats.vercel.app/api?username=github-lily&bg_color=60,bed9f4,bed9f4&title_color=fefdcf&text_color=fefdcf"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-lily&layout=compact&bg_color=60,bed9f4,bed9f4&title_color=fefdcf&text_color=fefdcf"/> 
-</div> 
+</div>  -->
 
     
 
 
-<div align=center><h1>📚 STACKS</h1></div>
-<div align=center>
-    <h3></h3>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=black"> 
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-ANDROID STUDIO-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">   
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">  
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-
-
-  <br>
-  
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
-
-</div>
