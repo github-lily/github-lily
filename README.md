@@ -35,7 +35,7 @@
 <br/>
     
 <div align= "left">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
 
 
 <h3>👑Main</h3>
@@ -75,6 +75,7 @@
 
 </div>
 
+<br/>
 <br/>
 
 <div align= "left">
