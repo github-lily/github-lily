@@ -3,8 +3,8 @@
 
 <div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Building code, breaking limits ⚡ </h2>  
-<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Frontend Developer | TypeScript & Android & Figma </h4>  
-<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 도전과 열정, 협업을 통해 즐거운 경험을 창출하는 개발자 </h4>  
+<h5 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Frontend Developer | TypeScript & Android & Figma </h5>  
+<!-- <h5 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 도전과 열정, 협업을 통해 즐거운 경험을 창출하는 개발자 </h5>   -->
 <hr style="height:4px; background-color:#AAAAAA; border:none;" />
 </div>
 
@@ -14,22 +14,24 @@
 <br>
 
 <div align= "left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡About Me </h2>    
-    <hr style="height:1px; background-color:#AAAAAA; border:none;" />
-    
-    <br>
-    
-    <ul>
-      <li>
-        <h4>삼성 청년 SW · AI 아카데미 12기</h4>
-        <p>우수 수료생 (상위 30%)</p>
-        <p>2024.07 ~ 2025.06</p>
-      </li>
-    </ul>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡About Me </h2>    
+<hr style="height:1px; background-color:#AAAAAA; border:none;" />
 
-    <br>
+> 도전과 열정, 협업을 통해 즐거운 경험을 창출하는 개발자, 이현희입니다.
+<br>
 
-    <hr style="height:4px; background-color:#AAAAAA; border:none;" />
+<ul>
+<li>
+<h4>삼성 청년 SW · AI 아카데미 12기</h4>
+<p>우수 수료생 (상위 30%)</p>
+<p>2024.07 ~ 2025.06</p>
+</li>
+</ul>
+
+
+<br>
+
+<hr style="height:4px; background-color:#AAAAAA; border:none;" />
 </div>
 
     
