@@ -81,7 +81,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=github-lily&bg_color=60,bed9f4,bed9f4&title_color=fefdcf&text_color=fefdcf"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-lily&layout=compact&bg_color=60,bed9f4,bed9f4&title_color=fefdcf&text_color=fefdcf"/> 
 </div>  -->
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={github-lily}&theme={nord_bright}
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=github-lily&theme=nord_bright"/>
+
     
 
 
