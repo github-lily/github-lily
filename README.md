@@ -38,7 +38,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
 
 
-<h3>👑Main</h3>
+<h3>Main</h3>
     
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=square&logo=Javascript&logoColor=white">
@@ -60,7 +60,7 @@
 
 
 
-<h3>📍Sub</h3>
+<h3>Sub</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=squaree&logo=CSS3&logoColor=white">
