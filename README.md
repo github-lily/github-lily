@@ -1,10 +1,31 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=bed9f4&height=180&text=const%20BEST_DEVELOPER%20=%20'hyunhee😎';&animation=fadeIn&fontColor=fefdcf&fontSize=40" />
+    ---
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Building code, breaking limits ⚡ </h2>  
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Frontend Developer | TypeScript & Android & Figma </h3>  
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 도전과 열정, 협업을 통해 즐거운 경험을 창출하는 개발자 </h3>  
+    <hr style="height:4px; background-color:#000000; border:none;" />
+
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Building code, breaking limits ⚡ </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 도전과 열정, 협업을 통해 즐거운 경험을 창출하는 개발자, 이현희 입니다.</li></li><br></li><br> </div> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡About Me </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+    
+    <ul>
+      <li>
+        <h4>삼성 청년 SW · AI 아카데미 12기</h4>
+        <p>우수 수료생 (상위 30%)</p>
+        <p>2024.07 ~ 2025.06</p>
+      </li>
+    </ul>
+
+    <br>
+    <br> 
+    </div> 
     </div>
+    <hr style="height:4px; background-color:#000000; border:none;" />
+
+    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -12,12 +33,14 @@
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
+          <br/>
+        <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
           <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
           <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
           <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+          <br/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
           <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
@@ -42,6 +65,7 @@
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
+    <h3></h3>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
