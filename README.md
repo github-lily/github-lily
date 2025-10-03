@@ -9,7 +9,7 @@
 <a href=mailto:jhc03032@naver.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhc03032@naver.com"> </a>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=githun-lily&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<hr style="height:4px; background-color:#AAAAAA; border:none;" />
+<!-- <hr style="height:4px; background-color:#AAAAAA; border:none;" /> -->
 </div>
 
 </div>
@@ -28,7 +28,7 @@
 </li>
 </ul>
 <br/>
-<hr style="height:4px; background-color:#AAAAAA; border:none;" />
+<!-- <hr style="height:4px; background-color:#AAAAAA; border:none;" /> -->
 </div>
 
 <br/>
