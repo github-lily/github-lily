@@ -1,15 +1,21 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=bed9f4&height=180&text=const%20BEST_DEVELOPER%20=%20'hyunhee😎';&animation=fadeIn&fontColor=fefdcf&fontSize=40" />
-    ---
+    
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Building code, breaking limits ⚡ </h2>  
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Frontend Developer | TypeScript & Android & Figma </h3>  
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 도전과 열정, 협업을 통해 즐거운 경험을 창출하는 개발자 </h3>  
-    <hr style="height:4px; background-color:#000000; border:none;" />
+    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Frontend Developer | TypeScript & Android & Figma </h4>  
+    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 도전과 열정, 협업을 통해 즐거운 경험을 창출하는 개발자 </h4>  
+    <hr style="height:4px; background-color:#AAAAAA; border:none;" />
 
-    </div>
-    <div style="text-align: left;"> 
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+</div>
+
+<br>
+<br>
+
+<div align= "left">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡About Me </h2>    
+    <hr style="height:1px; background-color:#AAAAAA; border:none;" />
+    
+    <br>
     
     <ul>
       <li>
@@ -20,10 +26,9 @@
     </ul>
 
     <br>
-    <br> 
-    </div> 
-    </div>
-    <hr style="height:4px; background-color:#000000; border:none;" />
+
+    <hr style="height:4px; background-color:#AAAAAA; border:none;" />
+</div>
 
     
     <div style="text-align: left;">
