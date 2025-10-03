@@ -5,10 +5,10 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Building code, breaking limits ⚡ </h2>  
     
 <h5 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Frontend Developer | TypeScript & Android & Figma </h5>  
- <a href=https://birdsfoot.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://birdsfoot.tistory.com/"> </a>
+ <a href=https://birdsfoot.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=square&logo=Tistory&logoColor=white&link=https://birdsfoot.tistory.com/"> </a>
 <a href=mailto:jhc03032@naver.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=square&logo=Gmail&logoColor=white&link=mailto:jhc03032@naver.com"> </a>
 <a href=mailto:https://solved.ac/jhc03032> <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jhc03032"> </a>
-
+<!-- style=square or style=for-the-badge 중 선택 -->
 
 <!-- <hr style="height:4px; background-color:#AAAAAA; border:none;" /> -->
 </div>
@@ -41,29 +41,29 @@
 <h3>👑Main</h3>
     
 
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=square&logo=Javascript&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=square&logo=typescript&logoColor=black"> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=square&logo=Next.js&logoColor=white">
 
 <br/>
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=black"> 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=square&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=square&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=square&logo=kotlin&logoColor=black"> 
 
 <br/>
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=square&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/jira-0052CC?style=square&logo=jira&logoColor=white">
 
 
 
 <h3>📍Sub</h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=square&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=squaree&logo=CSS3&logoColor=white">
 
 <br>
 
