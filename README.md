@@ -34,7 +34,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
 <div style="margin: ; text-align: left;" "text-align: left;"> 
 
-<h4>Main</h4>
+<h3>👑Main</h3>
     
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
