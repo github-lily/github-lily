@@ -21,7 +21,8 @@
 <div align= "left">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡About Me </h2>    
 <blockquote> 도전과 열정, 협업을 통해 즐거운 경험을 창출하는 개발자, 이현희입니다.  </blockquote>
-<h3>삼성 청년 SW · AI 아카데미 12기  </h3><p>2024.07 ~ 2025.06</p>
+<h4>삼성 청년 SW · AI 아카데미 12기  </h4>
+<p>2024.07 ~ 2025.06</p>
 <ul>
 <li>우수 수료생 (상위 30%)</li>
 <li>자치회 공로상(25.06.24)</li>
