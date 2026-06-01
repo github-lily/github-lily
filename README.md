@@ -20,7 +20,7 @@
 
 <div align= "left">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡About Me </h2>    
-<blockquote> 도전과 열정, 협업을 통해 즐거운 경험을 창출하는 개발자, 이현희입니다.  </blockquote>
+<blockquote> 필요한 걸 스스로 찾아 배우고, 데이터로 검증하며 완성합니다.  </blockquote>
 <h4>삼성 청년 SW · AI 아카데미 12기  </h4>
 <p>2024.07 ~ 2025.06</p>
 <ul>
