@@ -1,5 +1,5 @@
 <div align= "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bed9f4&height=180&text=const%20BEST_DEVELOPER%20=%20'hyunhee😎';&animation=fadeIn&fontColor=fefdcf&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bed9f4&height=180&text=LEE HYUN HEE;&animation=fadeIn&fontColor=fefdcf&fontSize=40" />
 
 <div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Building code, breaking limits ⚡ </h2>  
