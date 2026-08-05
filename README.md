@@ -75,18 +75,6 @@
 
 
 </div>
-
-<br/>
-<br/>
-
-<div align= "left">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=github-lily&theme=transparent"/>
-<!-- <br> 
-<img src="https://github-readme-stats.vercel.app/api?username=github-lily&bg_color=60,bed9f4,bed9f4&title_color=fefdcf&text_color=fefdcf"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-lily&layout=compact&bg_color=60,bed9f4,bed9f4&title_color=fefdcf&text_color=fefdcf"/> 
- -->
-</div> 
     
 
 
